@@ -34,6 +34,6 @@
 - [ ] Test Coverage
 - [ ] Test Coverage 100%
 - [ ] Linters
-- [ ] Build
-- [ ] Deploy
+- [x] Build
+- [x] Deploy
 - [ ] [Pull Request Size Labeler](https://github.com/libresource/open-source-checklist#pull-request-size-labeler)
